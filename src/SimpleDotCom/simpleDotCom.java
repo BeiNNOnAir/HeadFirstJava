@@ -1,3 +1,5 @@
+package SimpleDotCom;
+
 import java.util.Scanner;
 
 public class simpleDotCom {
